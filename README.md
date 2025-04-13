@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://website-builder-rosy-nine.vercel.app/
 
 ## How can I edit this code?
 
